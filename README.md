@@ -22,4 +22,4 @@ For training the models, we provide a labelled dataset of 31,962 tweets. The dat
   
 **Best Model Accuracy:** 95.00
 
-#It is a group project made during class course of machine learning durimg Feb 2022 to April 2022
+#It was a group project made during class course of machine learning during Feb 2022 to April 2022
